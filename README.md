@@ -24,8 +24,9 @@ Apaixonado por tecnologia, hoje me dedico a estudar o desenvolvimento web com o 
 
 ## Meus Projetos:
 
-- [Projeto em Desenvolvimento]()<br/>
-- [Projeto em Desenvolvimento]()<br/>
-- [Projeto em Desenvolvimento]()<br/>
-- [Projeto em Desenvolvimento]()<br/>
-- [Projeto em Desenvolvimento]()<br/>
+- [Projeto em Construção]()<br/>
+- [Projeto em Construção]()<br/>
+- [Projeto em Construção]()<br/>
+- [Projeto em Construção]()<br/>
+- [Projeto em Construção]()<br/>
+- [Projeto em Construção]()<br/>
