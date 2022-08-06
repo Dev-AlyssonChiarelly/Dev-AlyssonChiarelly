@@ -17,7 +17,7 @@
 
 </div><br>
 
-Apaixonado por tecnologia, hoje me dedico a estudar o desenvolvimento web como o sonho de tranformar muito café em código. ☕
+Apaixonado por tecnologia, hoje me dedico a estudar o desenvolvimento web com o sonho de tranformar muito café em código. ☕
 
 ## Meus Projetos:
 
