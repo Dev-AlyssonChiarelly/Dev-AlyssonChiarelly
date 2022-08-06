@@ -17,7 +17,7 @@
 
 </div><br>
 
-Apaixonado por tecnologia, atualmente estudante de Desenvolvimento Web Full Stack na Trybe, brevemente estarei transformando sonhos em código. ☕
+Apaixonado por tecnologia, hoje me dedico a estudar o desenvolvimento web como o sonho de tranformar muito café em código. ☕
 
 ## Meus Projetos:
 
