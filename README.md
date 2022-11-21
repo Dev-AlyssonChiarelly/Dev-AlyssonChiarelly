@@ -23,7 +23,6 @@
     <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 Apaixonado por tecnologia, hoje me dedico a estudar o desenvolvimento web, tranformando café em código. ☕
 
 ## Meus Projetos:
