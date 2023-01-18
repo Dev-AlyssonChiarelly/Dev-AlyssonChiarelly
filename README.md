@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Alysson Chiarelly ✌️
+### Hey! i'm Alysson Chiarelly ✌️
 
 <div>
         <a href="https://www.linkedin.com/in/alysson-chiarelly-571024a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
