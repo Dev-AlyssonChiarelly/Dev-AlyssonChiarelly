@@ -23,7 +23,7 @@
     <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
-Apaixonado por tecnologia, hoje me dedico a estudar o desenvolvimento web, tranformando café em código. ☕
+Apaixonado por tecnologia, hoje me dedico a estudar desenvolvimento web full stack, tranformando café em código. ☕
 
 ## Meus Projetos:
 
